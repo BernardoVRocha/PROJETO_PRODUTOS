@@ -1,0 +1,8 @@
+{
+ "liveshare.allowGuestDebugControl":false,
+ "liveshare.allowGuestTaskControl":false,
+ "liveshare.allowGuestCommandControl":false,
+ "liveshare.allowGuestWorkspaceEdit":true,
+ "liveshare.allowGuestTerminalControl":false
+ "allowGuestWorkspaceEdit": true
+}
