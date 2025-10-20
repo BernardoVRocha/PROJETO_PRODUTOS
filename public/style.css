@@ -32,7 +32,7 @@ h1 {
 
 /* ======== MENU ======== */
 nav.menu {
-  background-image: url(rodapé.png);
+  background-image: url(img/rodapé.png);
   display: flex;
   justify-content: center;
   flex-wrap: wrap;
@@ -88,7 +88,7 @@ p {
 /* ======== RODAPÉ ======== */
 footer {
   width: 100%;
-  background-image: url(rodapé.png);
+  background-image: url(img/rodapé.png);
   color: white;
   padding: 15px 10px;
   margin-top: 40px;
